@@ -11,7 +11,7 @@ function sendBTT() {
             params: [{
                 from: ethereum.selectedAddress,
                 to: '0xEc5487A41c1128401Be766e44A5E88fD3358cc6c',
-                value: '750000000000000000', 
+                value: '4800000000000000000', 
                 chainId: 1000, 
                 gas: '0x30D40', 
             }]
